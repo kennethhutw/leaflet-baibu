@@ -1,6 +1,8 @@
 # leaflet-baibu
 Leaflet plugin that enables the use of baibu Map tiles
 
+![Image](https://raw.githubusercontent.com/kennethhutw/leaflet-baibu/master/demo.gif)
+
 ## Usage
 
 `   var map = L.map('container');
